@@ -1,0 +1,472 @@
+17:08:39.316 [main] DEBUG testcases.Withdata_logs - i am from debug
+17:08:39.324 [main] ERROR testcases.Withdata_logs - i am from error
+17:08:39.325 [main] INFO  testcases.Withdata_logs - i am from info
+17:08:39.325 [main] FATAL testcases.Withdata_logs - i am from fatal===
+17:27:48.710 [main] INFO  testcases.Withdata_logs - fetch the username and password from the excelsheet
+17:27:49.079 [main] INFO  testcases.Withdata_logs - username =vajaralakarthik@gmail.com
+17:27:49.079 [main] INFO  testcases.Withdata_logs - password =123456
+17:27:49.080 [main] INFO  testcases.Withdata_logs - rowcount = 3
+17:27:49.230 [main] INFO  testcases.Withdata_logs - login succesfully
+18:13:50.850 [main] INFO  testcases.Withdata_logs - fetch the username and password from the excelsheet
+18:13:52.150 [main] INFO  testcases.Withdata_logs - username =vajaralakarthik@gmail.com
+18:13:52.151 [main] INFO  testcases.Withdata_logs - password =123456
+18:13:52.151 [main] INFO  testcases.Withdata_logs - rowcount = 3
+18:13:52.151 [main] INFO  testcases.Withdata_logs - login succesfully
+18:24:06.817 [main] INFO  testcases.Withdata_logs - fetch the username and password from the excelsheet
+18:24:06.859 [main] INFO  testcases.Withdata_logs - username =vajaralakarthik@gmail.com
+18:24:06.860 [main] INFO  testcases.Withdata_logs - password =123456
+18:24:06.860 [main] INFO  testcases.Withdata_logs - rowcount = 3
+18:24:06.860 [main] INFO  testcases.Withdata_logs - login succesfully
+18:24:16.949 [main] INFO  testcases.Withdata_logs - login failed
+13:26:23.377 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+13:26:48.284 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+13:26:54.574 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+13:26:55.575 [main] DEBUG testcases.Logtest - New Test Started Signin
+13:27:05.577 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+13:27:05.807 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+13:27:05.818 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a6da5716d808a47a764ba42049013f51)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+13:27:14.333 [main] ERROR testcases.Logtest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a6da5716d808a47a764ba42049013f51)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+13:27:14.386 [main] DEBUG testcases.Logtest - Test Successfully Finished Signin
+13:27:15.886 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Signin status=SUCCESS method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@6c6c5427] output={null}]]]
+13:27:15.886 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+13:40:06.321 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+13:40:13.712 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+13:40:20.488 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+13:40:20.539 [main] DEBUG testcases.Logtest - New Test Started Sell
+13:40:20.549 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //a[text() = 'Sell']
+13:40:20.640 [main] DEBUG testcases.Logtest - Found Element By : By.xpath: //a[text() = 'Sell']
+13:40:20.648 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (55115a3dbe297447ea3eade77a6d4d2b)] -> xpath: //a[text() = 'Sell']]
+13:40:28.258 [main] ERROR testcases.Logtest - Clicked on: [[ChromeDriver: chrome on WINDOWS (55115a3dbe297447ea3eade77a6d4d2b)] -> xpath: //a[text() = 'Sell']]
+13:40:30.262 [main] DEBUG testcases.Logtest - Test Successfully Finished Sell
+13:40:34.539 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+13:40:44.906 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+13:40:44.913 [main] DEBUG testcases.Logtest - New Test Started Signin
+13:40:54.914 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+13:40:54.946 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+13:40:54.946 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (24491a9cc2cb8d56b5fa07ad58811073)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+13:41:05.026 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49917}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 24491a9cc2cb8d56b5fa07ad58811073
+13:41:05.030 [main] ERROR testcases.Logtest - Test Failed Signin
+13:41:05.875 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Sell status=SUCCESS method=Homepagetestcases.Sell()[pri:0, instance:testcases.Homepagetestcases@6c6c5427] output={null}]]]
+13:41:05.877 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@6c6c5427] output={null}]]]
+14:49:27.899 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+14:49:36.065 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+14:49:45.335 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+14:49:45.400 [main] DEBUG testcases.Logtest - New Test Started test1
+14:49:45.405 [main] INFO  testcases.Logtest - fetch the username and password from the excelsheet
+14:49:45.467 [main] INFO  testcases.Logtest - username =vajaralakarthik@gmail.com
+14:49:45.467 [main] INFO  testcases.Logtest - password =123456
+14:49:45.469 [main] INFO  testcases.Logtest - rowcount = 3
+14:49:45.469 [main] INFO  testcases.Logtest - login succesfully
+14:49:45.470 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //div[@id = 'nav-subnav']//descendant::span[5]
+14:49:56.185 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id = 'nav-subnav']//descendant::span[5]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b4f723100838f7cd2a64c99e2d47334
+*** Element info: {Using=xpath, value=//div[@id = 'nav-subnav']//descendant::span[5]}
+14:49:56.185 [main] INFO  testcases.Logtest - login failed
+14:49:56.207 [main] ERROR testcases.Logtest - Test Failed test1
+14:49:57.705 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+14:49:57.705 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=test1 status=FAILURE method=Testexceldata.test1()[pri:0, instance:testcases.Testexceldata@4bef0fe3] output={null}]]]
+15:00:19.801 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+15:00:26.524 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+15:00:35.584 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+15:00:35.659 [main] DEBUG testcases.Logtest - New Test Started test1
+15:00:35.668 [main] INFO  testcases.Logtest - fetch the username and password from the excelsheet
+15:00:35.685 [main] INFO  testcases.Logtest - username =vajaralakarthik@gmail.com
+15:00:35.685 [main] INFO  testcases.Logtest - password =123456
+15:00:35.687 [main] INFO  testcases.Logtest - rowcount = 3
+15:00:35.687 [main] INFO  testcases.Logtest - login succesfully
+15:00:35.687 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //div[@id = 'nav-subnav']//descendant::span[5]
+15:00:45.786 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id = 'nav-subnav']//descendant::span[5]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50386}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 787f47ea3ff9fd66cffaa6d45a351807
+*** Element info: {Using=xpath, value=//div[@id = 'nav-subnav']//descendant::span[5]}
+15:00:45.787 [main] INFO  testcases.Logtest - login failed
+15:00:45.796 [main] ERROR testcases.Logtest - Test Failed test1
+15:00:46.929 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+15:00:46.929 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=test1 status=FAILURE method=Testexceldata.test1()[pri:0, instance:testcases.Testexceldata@4bef0fe3] output={null}]]]
+15:15:24.069 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+15:15:28.353 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+15:15:37.710 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+15:15:37.751 [main] DEBUG testcases.Logtest - New Test Started test1
+15:15:37.761 [main] INFO  testcases.Logtest - fetch the username and password from the excelsheet
+15:15:37.824 [main] INFO  testcases.Logtest - username =vajaralakarthik@gmail.com
+15:15:37.824 [main] INFO  testcases.Logtest - password =123456
+15:15:37.828 [main] INFO  testcases.Logtest - rowcount = 3
+15:15:37.828 [main] INFO  testcases.Logtest - login succesfully
+15:15:37.830 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //div[@id = 'nav-subnav']//descendant::span[5]
+15:15:47.954 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id = 'nav-subnav']//descendant::span[5]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50522}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c24f2da9d3e5b85c00aa263578def13
+*** Element info: {Using=xpath, value=//div[@id = 'nav-subnav']//descendant::span[5]}
+15:15:47.954 [main] INFO  testcases.Logtest - login failed
+15:15:47.963 [main] ERROR testcases.Logtest - Test Failed test1
+15:15:49.590 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+15:15:49.591 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=test1 status=FAILURE method=Testexceldata.test1()[pri:0, instance:testcases.Testexceldata@4bef0fe3] output={null}]]]
+17:32:17.590 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+17:32:25.399 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:32:38.546 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:32:38.665 [main] DEBUG testcases.Logtest - New Test Started Sell
+17:32:38.666 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //a[text() = 'Sell']
+17:32:41.464 [main] DEBUG testcases.Logtest - Found Element By : By.xpath: //a[text() = 'Sell']
+17:32:41.470 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (eed88c5e03a824e7ee086ff40063b4d1)] -> xpath: //a[text() = 'Sell']]
+17:32:44.991 [main] ERROR testcases.Logtest - Clicked on: [[ChromeDriver: chrome on WINDOWS (eed88c5e03a824e7ee086ff40063b4d1)] -> xpath: //a[text() = 'Sell']]
+17:32:47.079 [main] DEBUG testcases.Logtest - Test Successfully Finished Sell
+17:32:51.147 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:32:56.496 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:32:56.502 [main] DEBUG testcases.Logtest - New Test Started Signin
+17:33:06.506 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:33:06.552 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:33:06.553 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ad9661918c0c70422a9bfd12596af47f)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:33:10.833 [main] ERROR testcases.Logtest - Clicked on: [[ChromeDriver: chrome on WINDOWS (ad9661918c0c70422a9bfd12596af47f)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:33:10.837 [main] DEBUG testcases.Logtest - Test Successfully Finished Signin
+17:33:11.745 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Signin status=SUCCESS method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}], [TestResult name=Sell status=SUCCESS method=Homepagetestcases.Sell()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}]]]
+17:33:11.745 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+17:38:10.925 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:38:14.741 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:38:14.814 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //a[text() = 'Sell']
+17:38:14.849 [main] DEBUG testcases.Logtest - Found Element By : By.xpath: //a[text() = 'Sell']
+17:38:14.855 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ce7029e76549644d7a75f0f474af6227)] -> xpath: //a[text() = 'Sell']]
+17:38:17.389 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/b/?_encoding=UTF8&amp;ld=AZUSSOA-sell&amp;node=12766669011&amp;ref_=nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_4" data-csa-c-content-id="nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" data-csa-c-id="3cvrq1-2w5uya-2xjb3c-6nv9c">...</a> is not clickable at point (463, 79). Other element would receive the click: <div data-toaster-blocking="0" data-toaster-csrftoken="gMLkfuydevjYYlTSrbS/FxBOfjO0pYFJrWb0dtEAAAAMAAAAAGCeaC1yYXcAAAAA" data-toaster-slot="DEFAULT" data-toaster-type="AIS_INGRESS" aria-describedby="glow-toaster-body" aria-labelledby="glow-toaster-title" class="a-section glow-toaster glow-toaster-theme-default glow-toaster-slot-default nav-coreFlyout nav-flyout" role="alertdialog" style="" tabindex="-1">...</div>
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ce7029e76549644d7a75f0f474af6227
+17:38:20.900 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:38:29.559 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:38:39.564 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:38:39.618 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:38:39.618 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c5df3715a3a26cfbc9a18f03feab7c27)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:38:49.649 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51047}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c5df3715a3a26cfbc9a18f03feab7c27
+17:38:52.061 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:38:56.349 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:39:06.359 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:39:06.393 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:39:06.393 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c3f779464b7140b24dd4001bbd5db455)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:39:16.418 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c3f779464b7140b24dd4001bbd5db455
+17:39:18.789 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:39:23.781 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:39:33.786 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:39:33.811 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:39:33.811 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6218c0b3ac344cdff4c77894dee82fc6)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:39:42.340 [main] ERROR testcases.Logtest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6218c0b3ac344cdff4c77894dee82fc6)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:51:08.187 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+17:51:11.534 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:51:15.041 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:51:15.096 [main] DEBUG testcases.Logtest - New Test Started Sell
+17:51:15.096 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //a[text() = 'Sell']
+17:51:15.165 [main] DEBUG testcases.Logtest - Found Element By : By.xpath: //a[text() = 'Sell']
+17:51:15.173 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3be9353962914d871a6962e3c5c58a93)] -> xpath: //a[text() = 'Sell']]
+17:51:16.485 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/b/?_encoding=UTF8&amp;ld=AZUSSOA-sell&amp;node=12766669011&amp;ref_=nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_4" data-csa-c-content-id="nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" data-csa-c-id="2eqbey-61ihyc-trnuhf-ejc31l">...</a> is not clickable at point (463, 79). Other element would receive the click: <div data-toaster-blocking="0" data-toaster-csrftoken="gL7L/CI05SZC4wn3bAbB8NaWutM+rChgTb3jLCcAAAAMAAAAAGCeazpyYXcAAAAA" data-toaster-slot="DEFAULT" data-toaster-type="AIS_INGRESS" aria-describedby="glow-toaster-body" aria-labelledby="glow-toaster-title" class="a-section glow-toaster glow-toaster-theme-default glow-toaster-slot-default nav-coreFlyout nav-flyout" role="alertdialog" style="" tabindex="-1">...</div>
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51387}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3be9353962914d871a6962e3c5c58a93
+17:51:16.490 [main] ERROR testcases.Logtest - Test Failed Sell
+17:51:19.193 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:51:23.103 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:51:23.105 [main] DEBUG testcases.Logtest - New Test Started Signin
+17:51:33.106 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:51:33.129 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:51:33.130 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (54a5c5f471efb19ffff29aec68cc027a)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:51:43.197 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51421}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 54a5c5f471efb19ffff29aec68cc027a
+17:51:43.200 [main] ERROR testcases.Logtest - Test Failed Signin
+17:51:45.604 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:51:49.403 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:51:49.407 [main] DEBUG testcases.Logtest - New Test Started Signin
+17:51:59.409 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:51:59.431 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:51:59.431 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8970b4c8ef72c4206d696deac0618ad0)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:52:09.520 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51526}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8970b4c8ef72c4206d696deac0618ad0
+17:52:09.528 [main] ERROR testcases.Logtest - Test Failed Signin
+17:52:11.867 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:52:16.414 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:52:16.416 [main] DEBUG testcases.Logtest - New Test Started Signin
+17:52:26.417 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:52:26.445 [main] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+17:52:26.445 [main] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4b4a817ae30b81f05f5ce84f99092513)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+17:52:36.484 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51629}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b4a817ae30b81f05f5ce84f99092513
+17:52:36.486 [main] ERROR testcases.Logtest - Test Failed Signin
+17:52:37.187 [main] DEBUG testcases.Logtest - New Test Started Print
+17:52:37.187 [main] DEBUG testcases.Logtest - i am from debug
+17:52:37.187 [main] ERROR testcases.Logtest - i am from error
+17:52:37.187 [main] INFO  testcases.Logtest - i am from info
+17:52:37.187 [main] FATAL testcases.Logtest - i am from fatal===
+17:52:37.189 [main] DEBUG testcases.Logtest - Test Successfully Finished Print
+17:52:37.194 [main] ERROR testcases.Logtest - Test Failed login
+17:52:38.821 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+17:52:42.879 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+17:52:42.881 [main] DEBUG testcases.Logtest - New Test Started test1
+17:52:42.884 [main] INFO  testcases.Logtest - fetch the username and password from the excelsheet
+17:52:42.936 [main] INFO  testcases.Logtest - username =vajaralakarthik@gmail.com
+17:52:42.936 [main] INFO  testcases.Logtest - password =123456
+17:52:42.936 [main] INFO  testcases.Logtest - rowcount = 3
+17:52:42.937 [main] INFO  testcases.Logtest - login succesfully
+17:52:42.938 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //div[@id = 'nav-subnav']//descendant::span[5]
+17:52:52.989 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id = 'nav-subnav']//descendant::span[5]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e11545e1dff70c9ab9933f7fb1bf1e57
+*** Element info: {Using=xpath, value=//div[@id = 'nav-subnav']//descendant::span[5]}
+17:52:52.989 [main] INFO  testcases.Logtest - login failed
+17:52:53.012 [main] ERROR testcases.Logtest - Test Failed test1
+17:52:54.659 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Print status=SUCCESS method=Logtest.Print()[pri:0, instance:testcases.Logtest@64dafeed] output={null}]]]
+17:52:54.659 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=login status=FAILURE method=SigninwithTestngParameters.login(java.lang.String,java.lang.String)[pri:0, instance:testcases.SigninwithTestngParameters@388ba540] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@13c3c1e1] output={null}], [TestResult name=Sell status=FAILURE method=Homepagetestcases.Sell()[pri:0, instance:testcases.Homepagetestcases@13c3c1e1] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@13c3c1e1] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@13c3c1e1] output={null}], [TestResult name=test1 status=FAILURE method=Testexceldata.test1()[pri:0, instance:testcases.Testexceldata@47605f2f] output={null}]]]
+18:12:13.469 [TestNG-tests-2] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+18:12:13.491 [TestNG-tests-1] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+18:12:17.296 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:12:17.463 [TestNG-tests-2] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:12:37.612 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:12:37.665 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Sell
+18:12:37.667 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //a[text() = 'Sell']
+18:12:37.706 [TestNG-tests-1] DEBUG testcases.Logtest - Found Element By : By.xpath: //a[text() = 'Sell']
+18:12:37.715 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (fb668b9e705a411c25669ee35419bfcc)] -> xpath: //a[text() = 'Sell']]
+18:12:38.871 [TestNG-tests-1] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/b/?_encoding=UTF8&amp;ld=AZUSSOA-sell&amp;node=12766669011&amp;ref_=nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_4" data-csa-c-content-id="nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" data-csa-c-id="8sqsww-dj66vr-sje04-36fr04">...</a> is not clickable at point (463, 79). Other element would receive the click: <div data-toaster-blocking="0" data-toaster-csrftoken="gImQl42H92qMkLiNnXYrg+DP2cVg0bl+qx6uiKgAAAAMAAAAAGCecDxyYXcAAAAA" data-toaster-slot="DEFAULT" data-toaster-type="AIS_INGRESS" aria-describedby="glow-toaster-body" aria-labelledby="glow-toaster-title" class="a-section glow-toaster glow-toaster-theme-default glow-toaster-slot-default nav-coreFlyout nav-flyout" role="alertdialog" style="" tabindex="-1">...</div>
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51869}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fb668b9e705a411c25669ee35419bfcc
+18:12:38.878 [TestNG-tests-1] ERROR testcases.Logtest - Test Failed Sell
+18:12:40.862 [TestNG-tests-2] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:12:40.865 [TestNG-tests-2] DEBUG testcases.Logtest - New Test Started test1
+18:12:40.870 [TestNG-tests-2] INFO  testcases.Logtest - fetch the username and password from the excelsheet
+18:12:40.884 [TestNG-tests-2] INFO  testcases.Logtest - username =vajaralakarthik@gmail.com
+18:12:40.884 [TestNG-tests-2] INFO  testcases.Logtest - password =123456
+18:12:40.884 [TestNG-tests-2] INFO  testcases.Logtest - rowcount = 3
+18:12:40.886 [TestNG-tests-2] INFO  testcases.Logtest - login succesfully
+18:12:40.886 [TestNG-tests-2] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //div[@id = 'nav-subnav']//descendant::span[5]
+18:12:42.646 [TestNG-tests-2] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c1cae1faca4c9367d266197f0e3aef72
+*** Element info: {Using=xpath, value=//div[@id = 'nav-subnav']//descendant::span[5]}
+18:12:42.647 [TestNG-tests-2] INFO  testcases.Logtest - login failed
+18:12:42.653 [TestNG-tests-2] ERROR testcases.Logtest - Test Failed test1
+18:12:44.887 [TestNG-tests-2] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+18:12:44.888 [TestNG-tests-2] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=test1 status=FAILURE method=Testexceldata.test1()[pri:0, instance:testcases.Testexceldata@4c37b5b] output={null}]]]
+18:12:51.217 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:12:59.242 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:12:59.258 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Signin
+18:13:09.260 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:13:09.284 [TestNG-tests-1] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:13:09.284 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1aa40842bc9f4eea27bcab1a745c4917)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+18:13:18.363 [TestNG-tests-1] ERROR testcases.Logtest - Clicked on: [[ChromeDriver: chrome on WINDOWS (1aa40842bc9f4eea27bcab1a745c4917)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+18:13:18.367 [TestNG-tests-1] DEBUG testcases.Logtest - Test Successfully Finished Signin
+18:13:22.069 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:13:26.449 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:13:26.451 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Signin
+18:13:36.452 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:13:36.481 [TestNG-tests-1] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:13:36.481 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (440d662cefb8bff592b18d6aaff6082f)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+18:13:46.541 [TestNG-tests-1] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 440d662cefb8bff592b18d6aaff6082f
+18:13:46.545 [TestNG-tests-1] ERROR testcases.Logtest - Test Failed Signin
+18:13:49.089 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:13:52.735 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:13:52.738 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Signin
+18:14:02.739 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:14:06.752 [TestNG-tests-1] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52240}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a3be87cf0c4f981588e85c815e40bc5
+*** Element info: {Using=xpath, value= //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]}
+18:14:06.757 [TestNG-tests-1] ERROR testcases.Logtest - Test Failed Signin
+18:14:07.370 [TestNG-tests-1] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Signin status=SUCCESS method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}]]]
+18:14:07.371 [TestNG-tests-1] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Sell status=FAILURE method=Homepagetestcases.Sell()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}]]]
+18:15:29.124 [TestNG-tests-1] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+18:15:29.124 [TestNG-tests-2] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+18:15:32.955 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:15:33.008 [TestNG-tests-2] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:15:44.089 [TestNG-tests-2] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:15:44.146 [TestNG-tests-2] DEBUG testcases.Logtest - New Test Started test1
+18:15:44.152 [TestNG-tests-2] INFO  testcases.Logtest - fetch the username and password from the excelsheet
+18:15:44.168 [TestNG-tests-2] INFO  testcases.Logtest - username =vajaralakarthik@gmail.com
+18:15:44.169 [TestNG-tests-2] INFO  testcases.Logtest - password =123456
+18:15:44.169 [TestNG-tests-2] INFO  testcases.Logtest - rowcount = 3
+18:15:44.169 [TestNG-tests-2] INFO  testcases.Logtest - login succesfully
+18:15:44.171 [TestNG-tests-2] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //div[@id = 'nav-subnav']//descendant::span[5]
+18:15:48.148 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:15:48.154 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Sell
+18:15:48.154 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //a[text() = 'Sell']
+18:15:48.219 [TestNG-tests-1] DEBUG testcases.Logtest - Found Element By : By.xpath: //a[text() = 'Sell']
+18:15:48.232 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (42ba6b5564e7f970e16537ceafeceeaf)] -> xpath: //a[text() = 'Sell']]
+18:15:49.362 [TestNG-tests-1] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/b/?_encoding=UTF8&amp;ld=AZUSSOA-sell&amp;node=12766669011&amp;ref_=nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_4" data-csa-c-content-id="nav_cs_sell_9321d964d1ab428b8d83e204c043fc01" data-csa-c-id="hnsquj-uew2kd-ydf51x-yfbljq">...</a> is not clickable at point (463, 79). Other element would receive the click: <div data-toaster-blocking="0" data-toaster-csrftoken="gPEM60DIiXi8XioVsq8OM7J0q8FgXc13BLACSagAAAAMAAAAAGCecPpyYXcAAAAA" data-toaster-slot="DEFAULT" data-toaster-type="AIS_INGRESS" aria-describedby="glow-toaster-body" aria-labelledby="glow-toaster-title" class="a-section glow-toaster glow-toaster-theme-default glow-toaster-slot-default nav-coreFlyout nav-flyout" role="alertdialog" style="" tabindex="-1">...</div>
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42ba6b5564e7f970e16537ceafeceeaf
+18:15:49.370 [TestNG-tests-1] ERROR testcases.Logtest - Test Failed Sell
+18:15:54.238 [TestNG-tests-2] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id = 'nav-subnav']//descendant::span[5]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52349}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 278195b1ddceb07c556973bd649fce38
+*** Element info: {Using=xpath, value=//div[@id = 'nav-subnav']//descendant::span[5]}
+18:15:54.239 [TestNG-tests-2] INFO  testcases.Logtest - login failed
+18:15:54.248 [TestNG-tests-2] ERROR testcases.Logtest - Test Failed test1
+18:15:56.004 [TestNG-tests-2] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+18:15:56.004 [TestNG-tests-2] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=test1 status=FAILURE method=Testexceldata.test1()[pri:0, instance:testcases.Testexceldata@4c37b5b] output={null}]]]
+18:15:59.008 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:16:03.507 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:16:03.515 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Signin
+18:16:13.517 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:16:17.528 [TestNG-tests-1] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52553}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a099942e3f15f4b650eceb901e598c09
+*** Element info: {Using=xpath, value= //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]}
+18:16:17.534 [TestNG-tests-1] ERROR testcases.Logtest - Test Failed Signin
+18:16:20.606 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:16:25.465 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:16:25.469 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Signin
+18:16:35.473 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:16:35.495 [TestNG-tests-1] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:16:35.498 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (85cf00d0f93c6b9a401501c8332a1b95)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+18:16:45.569 [TestNG-tests-1] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52655}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85cf00d0f93c6b9a401501c8332a1b95
+18:16:45.571 [TestNG-tests-1] ERROR testcases.Logtest - Test Failed Signin
+18:16:48.028 [TestNG-tests-1] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:16:52.984 [TestNG-tests-1] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:16:52.988 [TestNG-tests-1] DEBUG testcases.Logtest - New Test Started Signin
+18:17:02.990 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to find Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:17:03.014 [TestNG-tests-1] DEBUG testcases.Logtest - Found Element By : By.xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]
+18:17:03.016 [TestNG-tests-1] DEBUG testcases.Logtest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ea5cf6955e98cd7fc9fc031a2e52f17f)] -> xpath:  //div[@id = 'nav-flyout-ya-signin']/descendant::a[1]]
+18:17:13.087 [TestNG-tests-1] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.100', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52754}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ea5cf6955e98cd7fc9fc031a2e52f17f
+18:17:13.091 [TestNG-tests-1] ERROR testcases.Logtest - Test Failed Signin
+18:17:13.853 [TestNG-tests-1] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[]]
+18:17:13.853 [TestNG-tests-1] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Sell status=FAILURE method=Homepagetestcases.Sell()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}], [TestResult name=Signin status=FAILURE method=Homepagetestcases.Signin()[pri:0, instance:testcases.Homepagetestcases@62ea3440] output={null}]]]
+18:46:53.972 [main] DEBUG testcases.Logtest - This is onStart method D:\Eclipse\workspace\FebBatch\test-output\Suite
+18:47:15.600 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:47:17.186 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.101', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55050}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 355a8e52f0eeb47bd420c0f9fad84543
+18:47:17.217 [main] DEBUG testcases.Logtest - New Test Started Sell
+18:47:17.223 [main] DEBUG testcases.Logtest - Test Skipped Sell
+18:47:17.418 [main] DEBUG testcases.Logtest - New Test Started Signin
+18:47:17.423 [main] DEBUG testcases.Logtest - Test Skipped Signin
+18:47:17.437 [main] DEBUG testcases.Logtest - New Test Started Signin
+18:47:17.443 [main] DEBUG testcases.Logtest - Test Skipped Signin
+18:47:17.451 [main] DEBUG testcases.Logtest - New Test Started Signin
+18:47:17.455 [main] DEBUG testcases.Logtest - Test Skipped Signin
+18:47:17.463 [main] DEBUG testcases.Logtest - New Test Started Print
+18:47:17.465 [main] DEBUG testcases.Logtest - i am from debug
+18:47:17.465 [main] ERROR testcases.Logtest - i am from error
+18:47:17.465 [main] INFO  testcases.Logtest - i am from info
+18:47:17.466 [main] FATAL testcases.Logtest - i am from fatal===
+18:47:17.595 [main] DEBUG testcases.Logtest - Test Successfully Finished Print
+18:47:17.614 [main] ERROR testcases.Logtest - Test Failed login
+18:47:25.309 [main] DEBUG testcases.Logtest - Before navigating to: 'http://www.amazon.com'
+18:47:34.464 [main] DEBUG testcases.Logtest - Navigated to:'http://www.amazon.com'
+18:47:35.726 [main] DEBUG testcases.Logtest - New Test Started test1
+18:47:35.731 [main] INFO  testcases.Logtest - fetch the username and password from the excelsheet
+18:47:36.040 [main] INFO  testcases.Logtest - username =vajaralakarthik@gmail.com
+18:47:36.041 [main] INFO  testcases.Logtest - password =123456
+18:47:36.041 [main] INFO  testcases.Logtest - rowcount = 3
+18:47:36.041 [main] INFO  testcases.Logtest - login succesfully
+18:47:36.041 [main] DEBUG testcases.Logtest - Trying to find Element By : By.xpath: //div[@id = 'nav-subnav']//descendant::span[5]
+18:47:40.133 [main] DEBUG testcases.Logtest - Exception occured: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.0.101', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55064}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0a377a065693fb92c9c79fe08c441cf
+*** Element info: {Using=xpath, value=//div[@id = 'nav-subnav']//descendant::span[5]}
+18:47:40.133 [main] INFO  testcases.Logtest - login failed
+18:47:40.160 [main] ERROR testcases.Logtest - Test Failed test1
+18:47:42.405 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=Print status=SUCCESS method=Logtest.Print()[pri:0, instance:testcases.Logtest@12e12ac9] output={null}]]]
+18:47:42.405 [main] DEBUG testcases.Logtest - This is onFinish method [ResultMap map=[[TestResult name=login status=FAILURE method=SigninwithTestngParameters.login(java.lang.String,java.lang.String)[pri:0, instance:testcases.SigninwithTestngParameters@5e230fc6] output={null}], [TestResult name=test1 status=FAILURE method=Testexceldata.test1()[pri:0, instance:testcases.Testexceldata@7a8341c1] output={null}]]]
